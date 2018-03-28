@@ -1,8 +1,0 @@
-﻿==Installers==
-There are three installers stored here. Each perform different purposes. Once installed, only the upgrader can be used.
-*index.php: the main installer.
-*migrate.php: used to migrate from an existing comments solution
-*update.php: repairs and/or upgrades RethCommentsring.
-You'll need to pick the correct one if you want the install to work properly. Use index.php for most purposes, and
-migrate.php if you need to migrate an existing installation. Use update.php if you already have a RethCommentsring
-instance installed.

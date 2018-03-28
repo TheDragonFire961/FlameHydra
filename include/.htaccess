@@ -1,0 +1,3 @@
+# Disallow access to the include folder, as it may contain functions which may be abused.
+# If you're running a different server, disallow this directory.
+Deny from all
